@@ -1,3 +1,10 @@
+## Example 
+```
+<h1> Hello World!! </h1>
+<h2> Glad to see you here </h2>
+```
+
+```
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
@@ -22,3 +29,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 </form>
+```
+
+https://www.w3schools.com/howto/howto_css_register_form.asp
