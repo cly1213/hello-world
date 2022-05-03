@@ -1,6 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New Register with CI/CD</h1>
+    <h1>New Register for DevOps Learning</h1>
+    <h1>Integrating Kubernetes in CI/CD pipeline</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
@@ -12,7 +13,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Enter Test Password</b></label>
+    <label for="psw"><b>Enter Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
