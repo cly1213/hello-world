@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New Register</h1>
+    <h1>New Register with CI/CD</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter Full Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
 
